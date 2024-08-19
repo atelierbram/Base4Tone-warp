@@ -1,0 +1,24 @@
+name: Base4Tone_Classic_T Light
+accent: '#af88f2'
+background: '#e3dde4'
+foreground: '#746b76'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#e3dde4'
+    red: '#e16f2d'
+    green: '#9263e3'
+    yellow: '#5d22c3'
+    blue: '#841f93'
+    magenta: '#bd2861'
+    cyan: '#8049df'
+    white: '#161217'
+  bright:
+    black: '#f8f6f9'
+    red: '#a05022'
+    green: '#531fad'
+    yellow: '#401886'
+    blue: '#3c0e43'
+    magenta: '#821c43'
+    cyan: '#481150'
+    white: '#0c070d'

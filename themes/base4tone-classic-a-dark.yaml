@@ -1,0 +1,24 @@
+name: Base4Tone_Classic_A Dark
+accent: '#dd40a4'
+background: '#211d1c'
+foreground: '#a19391'
+details: darker
+terminal_colors:
+  normal:
+    black: '#211d1c'
+    red: '#8d9f04'
+    green: '#dd40a4'
+    yellow: '#f17ec7'
+    blue: '#eb8275'
+    magenta: '#dc9118'
+    cyan: '#e963b8'
+    white: '#eee8e8'
+  bright:
+    black: '#0d0807'
+    red: '#b9cf17'
+    green: '#f391cf'
+    yellow: '#f6b1dd'
+    blue: '#f8cac3'
+    magenta: '#e8a02c'
+    cyan: '#fbbab1'
+    white: '#f9f6f6'

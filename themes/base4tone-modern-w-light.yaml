@@ -1,0 +1,24 @@
+name: Base4Tone_Modern_W Light
+accent: '#25bcd0'
+background: '#e4dde0'
+foreground: '#766b6f'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#e4dde0'
+    red: '#30a91e'
+    green: '#1398aa'
+    yellow: '#03616d'
+    blue: '#931f4c'
+    magenta: '#bd3a28'
+    cyan: '#047b8b'
+    white: '#161314'
+  bright:
+    black: '#f9f6f7'
+    red: '#1a7f0a'
+    green: '#02545e'
+    yellow: '#023e46'
+    blue: '#3f0d20'
+    magenta: '#87291d'
+    cyan: '#501129'
+    white: '#0d080a'

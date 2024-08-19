@@ -1,0 +1,24 @@
+name: Base4Tone_Classic_Q Light
+accent: '#74a8fb'
+background: '#dedde4'
+foreground: '#6c6b76'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#dedde4'
+    red: '#e64dad'
+    green: '#4287f5'
+    yellow: '#1453b8'
+    blue: '#4b38dc'
+    magenta: '#9939d5'
+    cyan: '#2771e7'
+    white: '#121217'
+  bright:
+    black: '#f6f6f9'
+    red: '#a42375'
+    green: '#1249a1'
+    yellow: '#0d3473'
+    blue: '#231782'
+    magenta: '#641e8f'
+    cyan: '#2c1ca0'
+    white: '#08070d'
